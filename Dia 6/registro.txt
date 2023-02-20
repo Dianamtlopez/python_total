@@ -1,0 +1,4 @@
+- Federico	17/12/2021	08:15:30 hs	Sin errores de carga
+- Federico	18/12/2021	08:02:59 hs	1 error de carga
+- Federico	19/12/2021	08:22:02 hs	Sin errores de carga
+- Federico	20/12/2021	08:17:32 hs	Sin errores de carga
